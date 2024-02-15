@@ -1,4 +1,4 @@
-# A.I._Algorithms
+# A.I. Algorithms
 
 Using algorithms we train based on the dataset the program provided at 
 https://ai.stanford.edu/~amaas/data/sentiment/
